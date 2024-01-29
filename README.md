@@ -1,3 +1,4 @@
+This code uses a dataset on mall customers to perform customer segmentation through various clustering algorithms. The process involves exploratory data analysis, visualization, and clustering using K-means, Hierarchical Clustering, DBSCAN, and Mean Shift. Here's a summary of the key steps and findings:
 **1. Data Exploration:**
    - The dataset contains information about customers, including age, annual income, spending score, and gender.
    - No missing values are present in the dataset.
