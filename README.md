@@ -30,8 +30,3 @@ This code uses a dataset on mall customers to perform customer segmentation thro
    - Silhouette Score and Davies-Bouldin Score are used for model evaluation.
    - K-means, Hierarchical Clustering, and Mean Shift show relatively higher Silhouette Scores compared to DBSCAN.
    - Davies-Bouldin Scores indicate good cluster separation for all algorithms.
-
-**5. Conclusion:**
-   - Each clustering algorithm has its strengths and limitations.
-   - Choosing the most suitable algorithm depends on the characteristics of the dataset and the goals of segmentation.
-
